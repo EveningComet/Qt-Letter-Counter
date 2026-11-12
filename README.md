@@ -10,7 +10,7 @@ In order to run this program on your system, you will have to set up a virtual e
 
 ## Limitation
 
-At the moment, project only works with the English alphabet.
+At the moment, the project only works with the English alphabet.
 
 ## Credits
 
